@@ -1,1 +1,1 @@
-![logo](https://github.com/BTK203/InfiniteRecharge-2021/blob/master/banner.png?raw=true)
+![logo](https://github.com/FRC-3695/2023-Season---Crescendo/blob/master/Logo.jpeg?raw=true)
