@@ -2,4 +2,4 @@
 ## Season Notes
 ## Code Notes
 ## Contributors
-- Noah Tagarao
+- Noah Tagarao @yelliotAlderson
